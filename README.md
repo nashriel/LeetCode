@@ -7,6 +7,7 @@ A collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nashriel/LeetCode/tree/master/0001-two-sum) |
+| [0046-permutations](https://github.com/nashriel/LeetCode/tree/master/0046-permutations) |
 | [0217-contains-duplicate](https://github.com/nashriel/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/nashriel/LeetCode/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/nashriel/LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
