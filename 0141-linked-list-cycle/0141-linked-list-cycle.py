@@ -6,12 +6,10 @@
 
 class Solution:
     def hasCycle(self, head: ListNode) -> bool:
-        # Edge case: if the list is empty or has only one node, it can't have a cycle
+        # base case: if the list is empty or has only one node, it can't have a cycle
         if not head or not head.next:
             return False
-        
-        # Initialize slow and fast pointers
-        slow, fast = head, head
+        slow, fast = head, head   # Initialize slow and fast pointers
         
         # Traverse the list
         while fast and fast.next:
