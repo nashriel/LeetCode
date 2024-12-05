@@ -22,6 +22,7 @@ A collection of LeetCode problems and my solutions.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nashriel/LeetCode/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/nashriel/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nashriel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Dynamic Programming
@@ -31,6 +32,7 @@ A collection of LeetCode problems and my solutions.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nashriel/LeetCode/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/nashriel/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/nashriel/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -44,6 +46,7 @@ A collection of LeetCode problems and my solutions.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nashriel/LeetCode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/nashriel/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/nashriel/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nashriel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
