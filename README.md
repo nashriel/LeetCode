@@ -30,6 +30,7 @@ A collection of LeetCode problems and my solutions.
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/nashriel/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/nashriel/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -42,5 +43,14 @@ A collection of LeetCode problems and my solutions.
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/nashriel/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nashriel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/nashriel/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/nashriel/LeetCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
