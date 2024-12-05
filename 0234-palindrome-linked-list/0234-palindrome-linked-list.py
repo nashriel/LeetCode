@@ -4,30 +4,30 @@
 #         self.val = val
 #         self.next = next
 class Solution:
-    def isPalindrome(self, head: Optional[ListNode]) -> bool:
+    def isPalindrome(self, head: ListNode) -> bool:
         if not head or not head.next:
-            return True  # A single-node or empty list is always a palindrome
+            return True
 
-        # Step 1: Find the middle of the list using fast and slow pointers
+        # Find the middle of the list
         slow, fast = head, head
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
 
-        # Step 2: Reverse the second half of the list
-        prev = None
-        while slow:
-            next_node = slow.next
-            slow.next = prev
-            prev = slow
-            slow = next_node
+        # Reverse the second half of the list
+        prev, curr = None, slow
+        while curr:
+            temp = curr.next
+            curr.next = prev
+            prev = curr
+            curr = temp
 
-        # Step 3: Compare the first and second halves
-        first_half, second_half = head, prev
-        while second_half:
-            if first_half.val != second_half.val:
+        # Compare the two halves
+        first, second = head, prev
+        while second:
+            if first.val != second.val:
                 return False
-            first_half = first_half.next
-            second_half = second_half.next
+            first = first.next
+            second = second.next
 
         return True
