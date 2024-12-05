@@ -22,6 +22,7 @@ A collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/nashriel/LeetCode/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nashriel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/nashriel/LeetCode/tree/master/0046-permutations) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nashriel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
