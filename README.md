@@ -59,4 +59,8 @@ A collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/nashriel/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/nashriel/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
