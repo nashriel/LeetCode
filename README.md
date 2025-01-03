@@ -29,6 +29,7 @@ A collection of LeetCode problems and my solutions.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nashriel/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/nashriel/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nashriel/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
@@ -45,6 +46,7 @@ A collection of LeetCode problems and my solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nashriel/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/nashriel/LeetCode/tree/master/0046-permutations) |
 ## Linked List
 |  |
@@ -68,4 +70,8 @@ A collection of LeetCode problems and my solutions.
 | [0584-find-customer-referee](https://github.com/nashriel/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/nashriel/LeetCode/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/nashriel/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nashriel/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
