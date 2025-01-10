@@ -10,6 +10,7 @@ A collection of LeetCode problems and my solutions.
 | [0046-permutations](https://github.com/nashriel/LeetCode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/nashriel/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/nashriel/LeetCode/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/nashriel/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nashriel/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0898-transpose-matrix](https://github.com/nashriel/LeetCode/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/nashriel/LeetCode/tree/master/0978-valid-mountain-array) |
