@@ -11,6 +11,7 @@ A collection of LeetCode problems and my solutions.
 | [0066-plus-one](https://github.com/nashriel/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/nashriel/LeetCode/tree/master/0217-contains-duplicate) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nashriel/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [1018-largest-perimeter-triangle](https://github.com/nashriel/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/nashriel/LeetCode/tree/master/0217-contains-duplicate) |
+| [1018-largest-perimeter-triangle](https://github.com/nashriel/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode problems and my solutions.
 | [0066-plus-one](https://github.com/nashriel/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nashriel/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nashriel/LeetCode/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/nashriel/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nashriel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Dynamic Programming
 |  |
@@ -81,4 +84,8 @@ A collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nashriel/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
+## Greedy
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/nashriel/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
