@@ -8,6 +8,7 @@ A collection of LeetCode problems and my solutions.
 | ------- |
 | [0001-two-sum](https://github.com/nashriel/LeetCode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/nashriel/LeetCode/tree/master/0046-permutations) |
+| [0066-plus-one](https://github.com/nashriel/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/nashriel/LeetCode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nashriel/LeetCode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/nashriel/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/nashriel/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nashriel/LeetCode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nashriel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
