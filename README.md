@@ -8,6 +8,7 @@ A collection of LeetCode problems and my solutions.
 | ------- |
 | [0001-two-sum](https://github.com/nashriel/LeetCode/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/nashriel/LeetCode/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/nashriel/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/nashriel/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/nashriel/LeetCode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/nashriel/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -94,9 +95,11 @@ A collection of LeetCode problems and my solutions.
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nashriel/LeetCode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/nashriel/LeetCode/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nashriel/LeetCode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/nashriel/LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
