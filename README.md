@@ -10,6 +10,7 @@ A collection of LeetCode problems and my solutions.
 | [0046-permutations](https://github.com/nashriel/LeetCode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/nashriel/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/nashriel/LeetCode/tree/master/0217-contains-duplicate) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/nashriel/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,4 +77,8 @@ A collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nashriel/LeetCode/tree/master/0022-generate-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/nashriel/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
