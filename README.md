@@ -10,6 +10,7 @@ A collection of LeetCode problems and my solutions.
 | [0046-permutations](https://github.com/nashriel/LeetCode/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/nashriel/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/nashriel/LeetCode/tree/master/0066-plus-one) |
+| [0209-minimum-size-subarray-sum](https://github.com/nashriel/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/nashriel/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nashriel/LeetCode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/nashriel/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -90,6 +91,7 @@ A collection of LeetCode problems and my solutions.
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nashriel/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nashriel/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Greedy
 |  |
@@ -109,4 +111,12 @@ A collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nashriel/LeetCode/tree/master/0229-majority-element-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nashriel/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/nashriel/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
