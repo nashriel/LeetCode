@@ -11,6 +11,7 @@ A collection of LeetCode problems and my solutions.
 | [0054-spiral-matrix](https://github.com/nashriel/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/nashriel/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/nashriel/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/nashriel/LeetCode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/nashriel/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/nashriel/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0898-transpose-matrix](https://github.com/nashriel/LeetCode/tree/master/0898-transpose-matrix) |
@@ -22,10 +23,12 @@ A collection of LeetCode problems and my solutions.
 | [0001-two-sum](https://github.com/nashriel/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/nashriel/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/nashriel/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/nashriel/LeetCode/tree/master/0229-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/nashriel/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/nashriel/LeetCode/tree/master/0229-majority-element-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/nashriel/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 ## Math
 |  |
@@ -102,4 +105,8 @@ A collection of LeetCode problems and my solutions.
 | ------- |
 | [0054-spiral-matrix](https://github.com/nashriel/LeetCode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/nashriel/LeetCode/tree/master/0898-transpose-matrix) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/nashriel/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
