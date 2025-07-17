@@ -49,6 +49,7 @@ A collection of LeetCode problems and my solutions.
 | [1013-fibonacci-number](https://github.com/nashriel/LeetCode/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/nashriel/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/nashriel/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/nashriel/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode problems and my solutions.
 | [0002-add-two-numbers](https://github.com/nashriel/LeetCode/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/nashriel/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/nashriel/LeetCode/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/nashriel/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode problems and my solutions.
 | [0054-spiral-matrix](https://github.com/nashriel/LeetCode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/nashriel/LeetCode/tree/master/0898-transpose-matrix) |
 | [2479-meeting-rooms-iii](https://github.com/nashriel/LeetCode/tree/master/2479-meeting-rooms-iii) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/nashriel/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [2479-meeting-rooms-iii](https://github.com/nashriel/LeetCode/tree/master/2479-meeting-rooms-iii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/nashriel/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
