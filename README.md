@@ -18,6 +18,7 @@ A collection of LeetCode problems and my solutions.
 | [0898-transpose-matrix](https://github.com/nashriel/LeetCode/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/nashriel/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1018-largest-perimeter-triangle](https://github.com/nashriel/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/nashriel/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/nashriel/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nashriel/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nashriel/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -29,6 +30,7 @@ A collection of LeetCode problems and my solutions.
 | [0141-linked-list-cycle](https://github.com/nashriel/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/nashriel/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nashriel/LeetCode/tree/master/0229-majority-element-ii) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/nashriel/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2479-meeting-rooms-iii](https://github.com/nashriel/LeetCode/tree/master/2479-meeting-rooms-iii) |
 ## Sorting
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/nashriel/LeetCode/tree/master/0229-majority-element-ii) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/nashriel/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
