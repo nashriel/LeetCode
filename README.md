@@ -18,6 +18,7 @@ A collection of LeetCode problems and my solutions.
 | [0898-transpose-matrix](https://github.com/nashriel/LeetCode/tree/master/0898-transpose-matrix) |
 | [0978-valid-mountain-array](https://github.com/nashriel/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1018-largest-perimeter-triangle](https://github.com/nashriel/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nashriel/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nashriel/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode problems and my solutions.
 | [0217-contains-duplicate](https://github.com/nashriel/LeetCode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/nashriel/LeetCode/tree/master/0229-majority-element-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/nashriel/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nashriel/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode problems and my solutions.
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nashriel/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/nashriel/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nashriel/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
 | ------- |
@@ -100,6 +103,7 @@ A collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/nashriel/LeetCode/tree/master/1018-largest-perimeter-triangle) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/nashriel/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Matrix
 |  |
 | ------- |
