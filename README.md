@@ -90,6 +90,7 @@ A collection of LeetCode problems and my solutions.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nashriel/LeetCode/tree/master/0022-generate-parentheses) |
+| [3396-valid-word](https://github.com/nashriel/LeetCode/tree/master/3396-valid-word) |
 ## Binary Search
 |  |
 | ------- |
