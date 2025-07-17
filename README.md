@@ -49,6 +49,7 @@ A collection of LeetCode problems and my solutions.
 | [0022-generate-parentheses](https://github.com/nashriel/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/nashriel/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nashriel/LeetCode/tree/master/1013-fibonacci-number) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nashriel/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nashriel/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Recursion
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode problems and my solutions.
 | ------- |
 | [0070-climbing-stairs](https://github.com/nashriel/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nashriel/LeetCode/tree/master/1013-fibonacci-number) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nashriel/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 ## Backtracking
 |  |
 | ------- |
