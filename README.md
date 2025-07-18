@@ -19,6 +19,7 @@ A collection of LeetCode problems and my solutions.
 | [0978-valid-mountain-array](https://github.com/nashriel/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1018-largest-perimeter-triangle](https://github.com/nashriel/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/nashriel/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nashriel/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/nashriel/LeetCode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/nashriel/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nashriel/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode problems and my solutions.
 | [0070-climbing-stairs](https://github.com/nashriel/LeetCode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/nashriel/LeetCode/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/nashriel/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nashriel/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/nashriel/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/nashriel/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Recursion
@@ -143,6 +145,7 @@ A collection of LeetCode problems and my solutions.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/nashriel/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/nashriel/LeetCode/tree/master/2479-meeting-rooms-iii) |
 ## Bit Manipulation
 |  |
